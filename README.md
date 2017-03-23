@@ -1,3 +1,4 @@
+![icon](https://github.com/welingtonramos/iOSDeviceModel/blob/master/icon/CPU.png)
 # iOSDeviceModel
 [![NuGet version](https://badge.fury.io/nu/iOSDeviceModel.svg)](http://badge.fury.io/nu/iOSDeviceModel)
 
